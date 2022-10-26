@@ -1,0 +1,68 @@
+img {
+    width: 150px;
+    border-radius: 10px;
+    border: 3px solid rgb(255, 255, 255)
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    style: Position relative;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    background-color: white;
+    background-image: linear-gradient(to right, rgb(17, 17, 17), rgb(235, 235, 245))
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+legend {
+    color: white;
+    font-size: small;
+    font-style: italic;
+}
+
+ul {
+    right: 0px;
+    Position: absolute;
+    top: 5px;
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+section {
+    display: block;
+    text-align: center;
+    color: white;
+
+}
+
+footer {
+    font-size: xx-small;
+}
